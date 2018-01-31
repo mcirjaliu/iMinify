@@ -1,5 +1,5 @@
 # iMinify
-A simple minifier C# files
+A simple minifier for C# files
 
 <h2>~ How does it work ~</h2>
 
