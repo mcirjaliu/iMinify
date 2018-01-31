@@ -41,7 +41,7 @@ namespace iMinify
         {
             string[] files = Directory.GetFiles(folder, "*.cs");
             for (int i = 0; i < files.Length; i++)
-                MinifyFile(files[i]);
+                MinifyFile(files[i].Replace(".cs",""));
         }
 
         static void TestMode(int generations, int approximation)
