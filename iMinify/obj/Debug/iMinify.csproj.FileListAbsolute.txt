@@ -1,0 +1,7 @@
+c:\users\mihai\source\repos\iMinify\iMinify\bin\Debug\iMinify.exe.config
+c:\users\mihai\source\repos\iMinify\iMinify\bin\Debug\iMinify.exe
+c:\users\mihai\source\repos\iMinify\iMinify\bin\Debug\iMinify.pdb
+c:\users\mihai\source\repos\iMinify\iMinify\obj\Debug\iMinify.csprojResolveAssemblyReference.cache
+c:\users\mihai\source\repos\iMinify\iMinify\obj\Debug\iMinify.csproj.CoreCompileInputs.cache
+c:\users\mihai\source\repos\iMinify\iMinify\obj\Debug\iMinify.exe
+c:\users\mihai\source\repos\iMinify\iMinify\obj\Debug\iMinify.pdb
